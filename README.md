@@ -21,7 +21,7 @@ To run the repository, follow these steps:
 
 5. Run:
    ```bash
-     main.py
+     python3 main.py
    ```
 
 ## Usage
