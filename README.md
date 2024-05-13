@@ -1,7 +1,7 @@
 # RedditSavesDownloader
 
 ## Introduction
-This is a script that I use to write my saved Reddit posts to 
+This is a script that I use to write my saved Reddit posts to a csv file.
 
 ## Dependencies
 Python, Praw, Typing, OS, Python-Dotenv, Logging, Warnings, CSV
